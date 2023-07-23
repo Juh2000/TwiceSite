@@ -18,7 +18,7 @@ html{
 */
 
 body{
-    background-image: linear-gradient(to right, #FCCFA6,#FDB3A5, #FE97A4, #FE7BA3, #FF5FA2  );
+    background-image: linear-gradient(to right, #fdd2aa,#FDB3A5, #FE97A4, #FE7BA3, #FF5FA2  );
   margin: 0 auto;
   padding: 0 auto;  
 }
@@ -83,7 +83,7 @@ img{
 
 
 h3{
-    color: rgb(0, 0, 0);
+    color: rgb(17, 17, 17);
     font-family: 'Roboto', sans-serif;
 }
 h1{
